@@ -3,4 +3,4 @@ layout: default
 title: Snickers
 nav_order: 9
 ---
-# Kinder Joy
+# Snickers
