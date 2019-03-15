@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: Munch
+nav_order: 7
 ---
 # Kinder Joy

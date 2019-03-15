@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: Knder joy
+nav_order: 4
 ---
 # Kinder Joy

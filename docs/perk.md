@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: Perk
+nav_order: 11
 ---
 # Kinder Joy

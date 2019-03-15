@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: Kitkat
+nav_order: 9
 ---
 # Kinder Joy

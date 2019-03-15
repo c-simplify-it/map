@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: Snickers
+nav_order: 8
 ---
 # Kinder Joy

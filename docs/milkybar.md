@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started
-nav_order: 6
+title: MilkyBar
+nav_order: 3
 ---
 # Kinder Joy
